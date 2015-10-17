@@ -132,16 +132,16 @@ In the wider sense:
 
 ### History of FP languages
 
-1959		Lisp
-1975-77	ML, FP, Scheme
-1978		Smalltalk
-1986		Standard ML
-1990		Haskell, Erlang
-1999		XSLT
-2000		OCaml
-2003		Scala, XQuery
-2005		F#
-2007		Clojure
+* 1959		Lisp
+* 1975-77	ML, FP, Scheme
+* 1978		Smalltalk
+* 1986		Standard ML
+* 1990		Haskell, Erlang
+* 1999		XSLT
+* 2000		OCaml
+* 2003		Scala, XQuery
+* 2005		F#
+* 2007		Clojure
 
 ### Why Functional Programming?
 
