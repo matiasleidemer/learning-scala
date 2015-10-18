@@ -1,4 +1,4 @@
-# Lesson 01
+# Lecture 1.1
 
 Paradigm: In science, a _paradigm" described distinct concepts or thought patterns in some scientific discipline.
 
